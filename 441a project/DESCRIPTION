@@ -1,0 +1,17 @@
+Package: myproject
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Yiping Liu
+Maintainer: The package maintainer <yipinglliu@ucla.edu>
+Description: 441A final assignment
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    utils,
+    ggplot2,
+    jsonlite
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
